@@ -1,6 +1,6 @@
 version: '3'
 services:
-  spring_boot_com_mysql:
+  students:
     build:
       context: ./
       dockerfile: ./Dockerfile
